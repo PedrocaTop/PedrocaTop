@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/47e684fd416a445e9659cabe62dcbc6e.gif" width="100%" alt="Samurai Banner">
+  <img src="./assets/wp14536759.jpg" width="100%" alt="Samurai Banner">
 </p>
 
 <h1 align="center">Pedro Ferreira</h1>
