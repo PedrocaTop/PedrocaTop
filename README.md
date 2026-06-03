@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="./assets/47e684fd416a445e9659cabe62dcbc6e.gif" width="100%" alt="Samurai Banner">
 </p>
@@ -6,15 +5,15 @@
 <h1 align="center">Pedro Ferreira</h1>
 
 <p align="center">
-Computer Engineering • Programming • Cybersecurity • Artificial Intelligence
-<br>
-Brazil, Paraná
+  Computer Engineering • Programming • Cybersecurity • Artificial Intelligence
+  <br>
+  Brazil, Paraná 🇧🇷
 </p>
 
 <p align="center">
-「昨日の自分を超える」
-<br>
-<i>Surpass who you were yesterday.</i>
+  「昨日の自分を超える」
+  <br>
+  <i>Surpass who you were yesterday.</i>
 </p>
 
 ---
@@ -49,7 +48,7 @@ Fields
 ├─ Computer Networks
 ├─ Operating Systems
 └─ Computer Engineering
-````
+```
 
 ---
 
@@ -114,9 +113,14 @@ Consistency becomes strength.
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=D89BBF&center=true&vCenter=true&width=700&lines=Computer+Engineering;Artificial+Intelligence;Cybersecurity;Software+Development;Never+Stop+Learning"/>
+</p>
+
+---
+
 <div align="center">
 
-🌸 Keep improving every day 🌸
+### 🌸 Keep improving every day 🌸
 
 </div>
-```
