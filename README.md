@@ -123,16 +123,16 @@ Fields
 
 ---
 
-## 月下独行 | Under the Moon
+## 桜 | Cherry Blossom
 
 <p align="center">
-  <img src="./assets/images.jpg" width="95%" alt="Samurai Artwork">
+  <img src="./assets/cherry-blossom-tree-34ogar0wpu2lmoju.jpg" width="95%" alt="Cherry Blossom Tree">
 </p>
 
 <p align="center">
-  「孤独は弱さではない」
+  「桜は散っても美しい」
   <br>
-  Solitude is not weakness.
+  Even when it falls, the cherry blossom remains beautiful.
 </p>
 
 ---
