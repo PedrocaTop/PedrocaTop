@@ -5,34 +5,39 @@
 <h1 align="center">『 Pedro Ferreira 』</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=800&color=F4C2D7&center=true&vCenter=true&width=1100&lines=Artificial+Intelligence+Engineering;Cybersecurity+Research;Reverse+Engineering;Linux+Systems;High+Performance+Computing;Computer+Engineering;Engineering+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=F4C2D7&center=true&vCenter=true&width=1000&lines=Computer+Engineering;Artificial+Intelligence;Cybersecurity;Reverse+Engineering;Linux+Systems;Never+Stop+Learning;Build+The+Future" />
 </p>
 
 <p align="center">
-コンピュータ工学 • 人工知能 • サイバーセキュリティ
+  コンピュータ工学 • 人工知能 • サイバーセキュリティ
 </p>
 
 <p align="center">
-Paraná • Brazil 🇧🇷
+  Paraná • Brazil 🇧🇷
 </p>
 
 <p align="center">
-「昨日の自分を超える」
-<br>
-<i>Surpass who you were yesterday.</i>
+  「昨日の自分を超える」
+  <br>
+  <i>Surpass who you were yesterday.</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PedrocaTop&style=for-the-badge&color=ff69b4"/>
   <img src="https://img.shields.io/github/followers/PedrocaTop?style=for-the-badge&logo=github&color=ff69b4"/>
-  <img src="https://img.shields.io/github/stars/PedrocaTop?style=for-the-badge&logo=github&color=ff69b4"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash,linux,git,vscode,docker,github&theme=dark"/>
 </p>
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ 武士道 ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ 武士道 ❀
+
+</div>
 
 ## 現在 | Current Focus
 
@@ -41,26 +46,23 @@ Mission
 ├─ Artificial Intelligence Engineering
 ├─ Cybersecurity Research
 ├─ Reverse Engineering
-├─ High-Performance Computing
 ├─ System Architecture
-├─ Software Engineering
 ├─ Linux Internals
+├─ High Performance Computing
+├─ Software Engineering
 ├─ Network Security
-├─ Low-Level Development
 └─ Computer Engineering
 ```
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ 技術 ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ 技術 ❀
+
+</div>
 
 ## 技術 | Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash,linux,git,vscode,docker,github&theme=dark"/>
-</p>
 
 ```text
 Languages
@@ -72,48 +74,41 @@ Languages
 ├─ CSS
 └─ Bash
 
-Fields
-├─ Software Engineering
+Specializations
 ├─ Artificial Intelligence
 ├─ Information Security
 ├─ Computer Networks
 ├─ Operating Systems
-└─ Computer Engineering
+└─ Software Engineering
 ```
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ Statistics ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ Statistics ❀
+
+</div>
 
 ## 統計 | Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrocaTop&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4C2D7&text_color=F5F5F5&icon_color=F4C2D7"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrocaTop&layout=compact&hide_border=true&bg_color=00000000&title_color=F4C2D7&text_color=F5F5F5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrocaTop&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=F4C2D7&text_color=F5F5F5"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedrocaTop&theme=github_dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedrocaTop&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedrocaTop&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedrocaTop&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedrocaTop&theme=github_dark&utcOffset=-3"/>
-</p>
-
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ Activity ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ Activity ❀
+
+</div>
 
 ## 活動 | Activity
 
@@ -127,25 +122,27 @@ Fields
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ Contributions ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ Contributions ❀
+
+</div>
 
 ## 貢献 | Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedrocaTop&theme=onestar&no-frame=true&row=1&column=7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=PedrocaTop&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+「努力は裏切らない」
+<br>
+Effort never betrays you.
 </p>
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ Cherry Blossom ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ Cherry Blossom ❀
+
+</div>
 
 ## 桜 | Cherry Blossom
 
@@ -161,9 +158,11 @@ Even when it falls, the cherry blossom remains beautiful.
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ Learning ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ Learning ❀
+
+</div>
 
 ## 学習中 | Currently Learning
 
@@ -180,9 +179,11 @@ Distributed Systems
 
 ---
 
-<p align="center">
-━━━━━━━━━━━━━━ ❀ Philosophy ❀ ━━━━━━━━━━━━━━
-</p>
+<div align="center">
+
+# ❀ Philosophy ❀
+
+</div>
 
 ## 武士道 | Philosophy
 
@@ -206,6 +207,12 @@ Consistency becomes strength.
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=F4C2D7&center=true&vCenter=true&width=900&lines=Build.;Learn.;Improve.;Repeat.;Consistency+Becomes+Strength.;Engineering+Tomorrow.;Yesterday+is+your+opponent." />
 </p>
 
+<div align="center">
+
+### 🌸 Yesterday is your opponent 🌸
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F4C2D7&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=F4C2D7&section=footer"/>
 </p>
