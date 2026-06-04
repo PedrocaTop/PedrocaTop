@@ -55,9 +55,7 @@ Focus
 ## 技術 | Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash,linux,git,vscode&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash,linux,git,vscode&theme=dark" />
 </p>
 
 ```text
@@ -123,9 +121,21 @@ Fields
   <img src="https://github-contributor-stats.vercel.app/api?username=PedrocaTop&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
+---
+
+## 月下独行 | Under the Moon
+
 <p align="center">
-🌸 ───────────────────────────── 🌸
+  <img src="./assets/images.jpg" width="95%" alt="Samurai Artwork">
 </p>
+
+<p align="center">
+  「孤独は弱さではない」
+  <br>
+  Solitude is not weakness.
+</p>
+
+---
 
 ## 学習中 | Currently Learning
 
